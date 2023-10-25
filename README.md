@@ -10,25 +10,15 @@ Diffusion models with their powerful expressivity and high sample quality have e
 
 ![teaser](./assets/teaser.png)
 
-## Introduction
+# Results 
 
-The DiffiT Transformer block applies linear
-projection to spatial and time-embedding tokens before
-combining them together to form query, key, and value
-vectors for each token. These vectors are then used
-to compute multi-head self-attention activations, followed by two linear layers. Above, LN indicates Layer
-Norm and GELU denotes the Gaussian error linear
-unit activation function.
-
-![teaser](./assets/diffit_tr_block.png)
-
-# Performance on ImageNet-256
+## Performance on ImageNet-256
 
 | Model| Dataset |  Resolution | FID-50K | Inception Score |
 |---------|----------|-----------|---------|--------|
 |DiffiT | ImageNet | 256x256   | 1.73    | 276.49|
 
-# Performance on ImageNet-512
+## Performance on ImageNet-512
 
 | Model| Dataset |  Resolution | FID-50K | Inception Score |
 |---------|----------|-----------|---------|--------|
