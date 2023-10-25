@@ -28,7 +28,6 @@ unit activation function.
 |---------|----------|-----------|---------|--------|
 |DiffiT | ImageNet | 256x256   | 1.73    | 276.49|
 
-
 # Performance on ImageNet-512
 
 | Model| Dataset |  Resolution | FID-50K | Inception Score |
