@@ -1,14 +1,19 @@
 # DiffiT: Diffusion Vision Transformers for Image Generation
 
-[Ali Hatamizadeh](https://research.nvidia.com/person/ali-hatamizadeh),
-[Jiaming Song](https://tsong.me/),
-[Guilin Liu](https://liuguilin1225.github.io/),
-[Jan Kautz](https://jankautz.com/), 
-[Arash Vahdat](https://research.nvidia.com/person/arash-vahdat).
+Official PyTorch implementation of [**DiffiT: Diffusion Vision Transformers for Image Generation**](https://arxiv.org/abs/2312.02139).
 
-Diffusion models with their powerful expressivity and high sample quality have enabled many new applications and use-cases in various domains. For sample generation, these models rely on a denoising neural network that generates images by iterative denoising. Yet, the role of denoising network architecture is not well-studied with most efforts relying on convolutional residual U-Nets. In this paper, we study the effectiveness of vision transformers in diffusion-based generative learning. Specifically, we propose a new model, denoted as Diffusion Vision Transformers (DiffiT), which consists of a hybrid hierarchical architecture with a U-shaped encoder and decoder. We introduce a novel time-dependent self-attention module that allows attention layers to adapt their behavior at different stages of the denoising process in an efficient manner. We also introduce latent DiffiT which consists of transformer model with the proposed self-attention layers, for high-resolution image generation. Our results show that DiffiT is surprisingly effective in generating high-fidelity images. DiffiT achieves state-of-the-art (SOTA) benchmarks on a variety of class-conditional and unconditional synthesis tasks. In the latent space, DiffiT achieves a new SOTA FID score of **1.73** on **ImageNet-256 dataset**. The code and pretrained model will be publicly available.
+
+**DiffiT Code and pretrained models will be released soon !**  
+
+[![Star on GitHub](https://img.shields.io/github/stars/NVlabs/DiffiT.svg?style=social)](https://github.com/NVlabs/DiffiT/stargazers)
+
+**DiffiT** achieves a new SOTA FID score of **1.73** on **ImageNet-256 dataset** ! 
 
 ![teaser](./assets/teaser.png)
+
+## 💥 News 💥
+- **[12.04.2023]** 🔥 DiffiT [manuscript](https://arxiv.org/abs/2312.02139) is now available on arXiv !
+
 
 # Results 
 
