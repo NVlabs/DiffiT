@@ -51,4 +51,17 @@ We introduce a new Time-dependent Multihead Self-Attention (TMSA) mechanism that
 |**DiffiT** | CIFAR-10 | 32x32   | **1.95** |
 |**DiffiT** | FFHQ-64 | 64x64   | **2.22** |
 
+## Citation
 
+```
+@article{hatamizadeh2023diffit,
+  title={Diffit: Diffusion vision transformers for image generation},
+  author={Hatamizadeh, Ali and Song, Jiaming and Liu, Guilin and Kautz, Jan and Vahdat, Arash},
+  journal={arXiv preprint arXiv:2312.02139},
+  year={2023}
+}
+```
+
+## Licenses
+
+Copyright © 2024, NVIDIA Corporation. All rights reserved.
