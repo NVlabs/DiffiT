@@ -62,6 +62,10 @@ We introduce a new Time-dependent Multihead Self-Attention (TMSA) mechanism that
 }
 ```
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=NVlabs/DiffiT&type=Date)](https://star-history.com/#NVlabs/DiffiT&Date)
+
 ## Licenses
 
 Copyright © 2024, NVIDIA Corporation. All rights reserved.
