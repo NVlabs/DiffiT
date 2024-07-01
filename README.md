@@ -22,7 +22,7 @@ We introduce a new Time-dependent Multihead Self-Attention (TMSA) mechanism that
 ![teaser](./assets/latent_diffit.png)
 
 ## 💥 News 💥
-- **[04.02.2024]** 🔥🔥 DiffiT has been accepted to [ECCV 2024](https://eccv.ecva.net/) !
+- **[07.01.2024]** 🔥🔥 DiffiT has been accepted to [ECCV 2024](https://eccv.ecva.net/) !
 - **[04.02.2024]**  Updated [manuscript](https://arxiv.org/abs/2312.02139) now available on arXiv !
 - **[12.04.2023]** 🔥 Paper is published on arXiv !
 
