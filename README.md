@@ -56,11 +56,13 @@ We introduce a new Time-dependent Multihead Self-Attention (TMSA) mechanism that
 ## Citation
 
 ```
-@article{hatamizadeh2023diffit,
+@inproceedings{hatamizadeh2025diffit,
   title={Diffit: Diffusion vision transformers for image generation},
   author={Hatamizadeh, Ali and Song, Jiaming and Liu, Guilin and Kautz, Jan and Vahdat, Arash},
-  journal={arXiv preprint arXiv:2312.02139},
-  year={2023}
+  booktitle={European Conference on Computer Vision},
+  pages={37--55},
+  year={2025},
+  organization={Springer}
 }
 ```
 
