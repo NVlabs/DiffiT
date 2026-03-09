@@ -7,7 +7,7 @@ For business inquiries, please visit our website and submit the form: [NVIDIA Re
 
 [![Star on GitHub](https://img.shields.io/github/stars/NVlabs/DiffiT.svg?style=social)](https://github.com/NVlabs/DiffiT/stargazers)
 
-**DiffiT** (Diffusion Vision Transformers) is a generative model that combines the expressive power of diffusion models with Vision Transformers (ViTs), introducing **Time-dependent Multihead Self Attention (TMSA)** for fine-grained control over the denoising process at each diffusion timestep. DiffiT achieves state-of-the-art performance on class-conditional ImageNet generation at multiple resolutions, notably attaining an **FID score of 1.73** on ImageNet-256 while using **19.85% and 16.88% fewer parameters** than comparable Transformer-based diffusion models such as MDT and DiT, respectively.
+**DiffiT** (Diffusion Vision Transformers) is a generative model that combines the expressive power of diffusion models with Vision Transformers (ViTs), introducing **Time-dependent Multihead Self Attention (TMSA)** for fine-grained control over the denoising process at each diffusion timestep. DiffiT achieves state-of-the-art performance on class-conditional ImageNet generation at multiple resolutions, notably attaining an **FID score of 1.73** on ImageNet-256.
 
 ![teaser](./assets/imagenet.png)
 
