@@ -1,0 +1,6 @@
+accelerate==0.27.2
+timm==0.9.16
+diffusers==0.26.3
+tqdm==4.64.1
+mpi4py==3.1.5
+blobfile==1.0.5

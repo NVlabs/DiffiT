@@ -1,0 +1,1 @@
+python evaluator.py './VIRTUAL_imagenet256_labeled.npz' './256_1/samples_50000x256x256x3.npz' 
